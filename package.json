@@ -1,5 +1,5 @@
 {
-  "name": "express-cassandra",
+  "name": "@kr-vishal/express-cassandra",
   "version": "2.9.0",
   "dependencies": {
     "async": "^2.6.4",
